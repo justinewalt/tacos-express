@@ -1,0 +1,19 @@
+{
+  "name": "tacos-express",
+  "version": "1.0.0",
+  "description": "practice express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/justinewalt/tacos-express.git"
+  },
+  "author": "Justin Ewalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinewalt/tacos-express/issues"
+  },
+  "homepage": "https://github.com/justinewalt/tacos-express#readme"
+}
